@@ -14,7 +14,7 @@ O portfólio apresenta informações pessoais, currículo, experiências profiss
 
 ## Professores
 
-- [Guilherme Lima](https://github.com/guilimadev) | [LinkedIn](https://www.linkedin.com/in/guilimadev/)
+- [Guilherme Lima](https://github.com/guilhermeonrails) | [LinkedIn](https://www.linkedin.com/in/guilherme-lima-458925178/)
 - [Rafaella Ballerini](https://github.com/rafaballerini) | [LinkedIn](https://www.linkedin.com/in/rafaellaballerini/)
 
 
